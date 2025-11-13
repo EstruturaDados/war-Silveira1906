@@ -5,8 +5,7 @@
  * Programa: Cadastro de Territórios
  * Objetivo: Criar uma base de dados com 5 territórios,
  *            armazenando nome, cor do exército e número de tropas.
- * Autor: [Seu Nome]
- * Data: [Data atual]
+ * Autor: [Marcio Silveira]
  */
 
 // Definição da struct Territorio
